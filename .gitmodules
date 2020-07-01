@@ -1,0 +1,6 @@
+[submodule "deep-reinforcement-learning"]
+	path = deep-reinforcement-learning
+	url = https://github.com/udacity/deep-reinforcement-learning
+[submodule "gym"]
+	path = gym
+	url = https://github.com/openai/gym
